@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/toseefkhilji/TKTagView/">
-<img src="https://github.com/toseefkhilji/TKTagView/blob/master/Images/TKTagView.png" alt="Logo">
+<img src="https://github.com/toseefkhilji/TKTagView/blob/master/images/TKTagView.png" alt="Logo">
 </a>
 </p>
 
@@ -12,7 +12,7 @@ Tag view
 
 ## Demo
 
-![logo](https://github.com/toseefkhilji/TKSegmentView/blob/master/Images/Screenshot.png?raw=true)
+![logo](https://github.com/toseefkhilji/TKTagView/blob/master/images/demo.png?raw=true)
 
 
 ## Usage
